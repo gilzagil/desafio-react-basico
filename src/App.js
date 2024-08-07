@@ -5,7 +5,7 @@ import Button from "./componentes/button/button"
 function App() {
   return (
     <>
-      <Texto cor="red" texto="Olá Mundo! Boraaa!"/>
+      <Texto cor="red" texto="Olá Mundo! Boraaaa!"/>
       <Button label="Saiba mais"/>
     </>
   );
